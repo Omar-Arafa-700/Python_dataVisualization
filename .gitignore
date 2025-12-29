@@ -1,0 +1,23 @@
+# Virtual environment folders
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data files (full NYC Payroll)
+data/Citywide_Payroll_Data__Fiscal_Year_.csv
+data/raw/
+
+# Keep sample dataset in repo
+!data/nyc_payroll_sample.csv
+
+# Optional: other environment/system files
+*.env
+*.DS_Store
