@@ -2,7 +2,9 @@
 
 This project sets up an environment to analyze **NYC Payroll data**. The goal is to explore trends, visualize distributions, and create reproducible analyses using Python.  
 
-## Project Structure
+## Project 
+- looking at basic trends 
+- looking at overtime statistics
 ## Dataset
 
 - The full NYC Payroll dataset is **publicly available** via [NYC Open Data](https://data.cityofnewyork.us/).  
